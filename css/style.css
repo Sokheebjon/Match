@@ -1,0 +1,13 @@
+body{
+    background-image: url("../image/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.team-emblem{
+    height: 150px;
+}
+.font{
+    background-color: rgba(0,0,0,0.5);
+}
